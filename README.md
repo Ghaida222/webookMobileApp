@@ -45,18 +45,18 @@ caps.setCapability(MobileCapabilityType.APP, "path_to_your_apk"); // Update this
 Open the project in your preferred IDE (e.g., IntelliJ IDEA).
 Run the AutomationApp java class.
 
-##Usage 
+## Usage 
 The main functionalities of the automation script include:
--Conncting and setup the driver
+-Connecting and setup the driver
 -Pressing UI Buttons: Navigates to the "Buttons" section and interacts with toggle buttons.
 -Changing Date: Automates the process of changing the date using the date widget.
 -Navigating Back: Returns to the home page after performing actions.
 
-##Code Structure
+## Code Structure
 -Base/AutomationApp.java: The main automation script containing methods for different actions.
 -pressYesNoButton(): Automates pressing buttons.
 -changeDate(): Automates changing the date.
 -navigateBackToHomePage(): Handles navigation back to the home page.
 
-##Author
+## Author
 Ghaida Bin Muhaib
