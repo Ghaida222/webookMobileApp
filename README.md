@@ -58,5 +58,12 @@ The main functionalities of the automation script include:
 -changeDate(): Automates changing the date.
 -navigateBackToHomePage(): Handles navigation back to the home page.
 
+
+## Video Demonstration
+
+Here is a video demonstration of the WebookWeb automation script in action:
+
+[Watch the Automation Demo] webookMobileApp/mobileAutomation demo.mp4
+
 ## Author
 Ghaida Bin Muhaib
